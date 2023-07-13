@@ -1,0 +1,9 @@
+header {
+    height: 120px;
+    background-color: cornflowerblue;
+    color: #fff;
+    display:flex
+    justify-content: center;
+    align-items: center;
+    
+}
